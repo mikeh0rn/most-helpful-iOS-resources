@@ -196,6 +196,9 @@ This repo is devoted to every [Stack Overflow](http://stackoverflow.com/) answer
 - Garin Bulger
 - Hayden Broberg
 - Elizabeth Gorence
+- [Steven Cassidy](https://github.com/stevecass)
+- [Steven Harms](https://github.com/sgharms)
+- [Matthew Bunday](https://github.com/zencephalon)
 - [Christina Moulton - @ChristinaMltn](https://twitter.com/ChristinaMltn)
 - [Ivan Galic - @ivangalic](https://twitter.com/ivangalic)
 - []()
