@@ -71,8 +71,8 @@ This repo is devoted to every [Stack Overflow](http://stackoverflow.com/) answer
 - [We <3 Swift: Learn Swift Programming from Scratch by Andrei Puni and Silviu Pop](https://www.weheartswift.com/swift-programming-scratch-100-exercises/)
 - [The Swift Programming Language by Apple Inc.](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
 
-
-- []()
+#Blogs
+- [Learning Swift - Useful Links](http://zoltan.co/work/swift.html)
 - []()
 - []()
 - []()
