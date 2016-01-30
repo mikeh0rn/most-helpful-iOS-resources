@@ -1,7 +1,7 @@
 # iOS Thank Yous
 This repo is devoted to every [Stack Overflow](http://stackoverflow.com/) answer (or in some cases an entire post), [blog](https://en.wikipedia.org/wiki/Blog), or [site](https://en.wikipedia.org/wiki/World_Wide_Web) I've used as a resource throughout building my first iOS application in [Swift](https://usatlife.files.wordpress.com/2015/02/dubmrto.jpg?w=643&h=825). Without these resources, there's not a chance in hell I've would've been able to plow through.
 
-Disclaimer: There might be a few resources below where an explanation was given in Objective-C. As you will soon come to realize, this is the norm when getting into iOS development while snooping around for best practices in Swift. It comes with the territory. Hopefully, the links below will help you bypass a few steps in tearing the [internet](https://www.youtube.com/watch?v=UlJku_CSyNg) to shreds to find what you're looking for.
+**Disclaimer**: There might be a few resources below where an explanation was given in Objective-C. As you will soon come to realize, this is the norm when getting into iOS development while snooping around for best practices in Swift. It comes with the territory. Hopefully, the links below will help you bypass a few steps in tearing the [internet](https://www.youtube.com/watch?v=UlJku_CSyNg) to shreds to find what you're looking for.
 
 ===============
 
@@ -57,6 +57,25 @@ Disclaimer: There might be a few resources below where an explanation was given 
 - [Check if user has email set up on their iDevice?](http://stackoverflow.com/a/4522760)
 - [MFMailComposeViewController in Swift does not dismiss](http://stackoverflow.com/a/26932549)
 - [MFMailComposeViewController in Swift](http://stackoverflow.com/a/24330282)
+
+===============
+
+# Books
+##### Please buy these if you intend on using them. The writers deserve every penny.
+
+- [Learn Swift by Aidan Finn](http://books.aidanf.net/learn-swift)
+- [The iOS Apprentice - Beginning iOS Development with Swift 2 by Ray Wenderlich](http://www.raywenderlich.com/store/ios-apprentice)
+- [objc Functional Swift by Chris Eidhof, Florian Kugler, and Wouter Swierstra](https://www.objc.io/books/functional-swift/)
+- [AppCoda - Beginning iOS 9 Programming with Swift by Simon Ng](https://www.appcoda.com/swift/)
+- [iOS Apps with REST APIs: Building Web-Driven Apps in Swift by Christina Moulton](https://leanpub.com/iosappswithrest)
+- [We <3 Swift: Learn Swift Programming from Scratch by Andrei Puni and Silviu Pop](https://www.weheartswift.com/swift-programming-scratch-100-exercises/)
+- [The Swift Programming Language by Apple Inc.](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
+
+
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 - []()
