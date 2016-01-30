@@ -183,11 +183,21 @@ This repo is devoted to every [Stack Overflow](http://stackoverflow.com/) answer
 - [awesome-ios - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects](https://github.com/vsouza/awesome-ios)
 - [CalendarView](https://github.com/n8armstrong/CalendarView)
 - [ios_google_places_autocomplete](https://github.com/watsonbox/ios_google_places_autocomplete)
-- 
+ 
 ===============
 
 #Shoutouts:
--
+- [Skedaddle](https://www.letskedaddle.com)
+- [Erol Erturk](https://github.com/eperturk)
+- [Lou Harwood](https://github.com/lharwood)
+- [Craig Nestler](https://github.com/cnestler)
+- [Adam Nestler](https://github.com/anestler)
+- [Brad Werntz](https://github.com/bradwerntz)
+- Garin Bulger
+- Hayden Broberg
+- Elizabeth Gorence
+- [Christina Moulton - @ChristinaMltn](https://twitter.com/ChristinaMltn)
+- [Ivan Galic - @ivangalic](https://twitter.com/ivangalic)
 ===============
 
 Honorable Mention: [My greatest inspiration](http://www.warnerbros.com/archive/spacejam/movie/jam.htm)
