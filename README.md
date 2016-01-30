@@ -1,4 +1,4 @@
-# iOS Thank Yous
+# iThankYou
 This repo is devoted to every [Stack Overflow](http://stackoverflow.com/) answer (or in some cases an entire post), [blog](https://en.wikipedia.org/wiki/Blog), or [site](https://en.wikipedia.org/wiki/World_Wide_Web) I've used as a resource throughout building my first iOS application in [Swift](https://usatlife.files.wordpress.com/2015/02/dubmrto.jpg?w=643&h=825). Without these resources, there's not a chance in hell I would've been able to plow through.
 
 **Disclaimer**: There might be a few resources below where an explanation was given in Objective-C. As you will soon come to realize, this is the norm when getting into iOS development while snooping around for best practices in Swift. It comes with the territory. Hopefully, the links below will help you bypass a few steps in tearing the [internet](https://www.youtube.com/watch?v=UlJku_CSyNg) to shreds to find what you're looking for.
