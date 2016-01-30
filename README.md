@@ -154,36 +154,37 @@ This repo is devoted to every [Stack Overflow](http://stackoverflow.com/) answer
 - [Google Place Autocomplete View With Swift Language through Alamofire networking library](http://ashishkakkad.com/2015/02/google-place-autocomplete-view-with-swift-language-through-alamofire-networking-library/)
 - [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net/#/repl)
 - [NSDate in Swift](http://www.brianjcoleman.com/tutorial-nsdate-in-swift/)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [A Beginner’s Guide to NSDate in Swift](http://www.appcoda.com/nsdate/)
+- [Optional in Swift](http://www.fantageek.com/blog/2015/12/04/optional-in-swift/)
+- [iOS From Scratch With Swift: Swift in a Nutshell](https://code.tutsplus.com/tutorials/ios-from-scratch-with-swift-swift-in-a-nutshell--cms-25168)
+- [Swift String Cheat Sheet](http://useyourloaf.com/blog/swift-string-cheat-sheet.html)
+- [Swift NSTimer Tutorial](http://www.ios-blog.co.uk/tutorials/swift/swift-nstimer-tutorial-lets-create-a-counter-application/)
+- [Bitly API - iOS Documentation](http://dev.bitly.com/ios_tools.html)
+- [iOS From Scratch With Swift: Creating Your First iOS Application](https://code.tutsplus.com/tutorials/ios-from-scratch-with-swift-creating-your-first-ios-application--cms-25152)
+- [Size Class Reference Guide](http://useyourloaf.com/blog/size-classes.html)
+- [Size Classes Tutorial](http://www.hossamghareeb.com/size-classes-tutorial/)
+- [How to get rid of the padding / insets in an UITextView](http://www.pixeldock.com/blog/how-to-get-rid-of-the-padding-insets-in-an-uitextview/)
+- [Optionals in Swift](http://andybargh.com/2015/12/02/optionals-in-swift/)
+- [Swiftify - Obj-C to Swift Converter](https://objectivec2swift.com/#/converter/code)
+- [Google Analytics for iOS - Swift Documentation](https://developers.google.com/analytics/devguides/collection/ios/v3/?ver=swift)
+- [15 Tips to Become a Better Swift Developer](http://savvyapps.com/blog/swift-tips-for-developers)
+- [Profiling your Swift compilation times](http://irace.me/swift-profiling/)
+- [How to convert a hex color to a UIColor](https://www.hackingwithswift.com/example-code/uicolor/how-to-convert-a-hex-color-to-a-uicolor)
+- [CLLocationManager Class Reference](https://developer.apple.com/library/ios/documentation/CoreLocation/Reference/CLLocationManager_Class/)
+- [Facebook Analytics for Apps - Quick Start Guide](https://developers.facebook.com/docs/analytics/quickstart)
+- [A simple tip to reduce App Store rejections](https://library.launchkit.io/a-simple-tip-to-reduce-app-store-rejections-4517ca505e44#.y7a11xjog)
+- [Swift.org](https://swift.org/blog/swift-api-transformation/)
 
 ===============
 
 # Github (bless the souls of these repos)
 - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
+- [Alamofire](https://github.com/Alamofire/Alamofire)
 - [AKPickerView-Swift](https://github.com/Akkyie/AKPickerView-Swift)
-- [awesome-ios - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects](https://github.com/vsouza/awesome-ios)
 - [CalendarView](https://github.com/n8armstrong/CalendarView)
 - [ios_google_places_autocomplete](https://github.com/watsonbox/ios_google_places_autocomplete)
- 
+- [awesome-ios - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects](https://github.com/vsouza/awesome-ios)
+
 ===============
 
 #Shoutouts:
@@ -201,7 +202,7 @@ This repo is devoted to every [Stack Overflow](http://stackoverflow.com/) answer
 - [Matthew Bunday](https://github.com/zencephalon)
 - [Christina Moulton - @ChristinaMltn](https://twitter.com/ChristinaMltn)
 - [Ivan Galic - @ivangalic](https://twitter.com/ivangalic)
-- []()
+
 ===============
 
 Honorable Mention: [My greatest inspiration](http://www.warnerbros.com/archive/spacejam/movie/jam.htm)
