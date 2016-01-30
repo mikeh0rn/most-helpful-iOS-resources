@@ -1,5 +1,5 @@
-# iOS thank yous
-This repo is devoted to every stack overflow post, blog, or site I've used as a resource throughout building my first iOS application in Swift. Without these resources, there's not a chance in hell I've would've been able to plow through
+# iOS Thank Yous
+This repo is devoted to every [Stack Overflow](http://stackoverflow.com/) answer, [blog](https://en.wikipedia.org/wiki/Blog), or [site](https://en.wikipedia.org/wiki/World_Wide_Web) I've used as a resource throughout building my first iOS application in Swift. Without these resources, there's not a chance in hell I've would've been able to plow through
 
 ===============
 
@@ -29,3 +29,6 @@ This repo is devoted to every stack overflow post, blog, or site I've used as a 
 - [] ()
 - [] ()
 - [] ()
+- 
+
+Honorable Mention: [My greatest inspiration](http://www.warnerbros.com/archive/spacejam/movie/jam.htm)
